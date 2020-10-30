@@ -14,5 +14,7 @@ The following instructions are for the year 2020 dataset. The URLs change for ea
 
 ## Credits
 **All data and images belong to NASA:**
-NASA's Scientific Visualization Studio
-Cusson. 23 Jump Shots ASCAP. ©2017
+
+&nbsp;&nbsp;&nbsp;&nbsp;NASA's Scientific Visualization Studio
+
+&nbsp;&nbsp;&nbsp;&nbsp;Cusson. 23 Jump Shots ASCAP. ©2017
